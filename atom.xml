@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://skankhunter42-big97.github.io/1/</id>
+    <title></title>
+    <updated>2020-02-18T10:10:39.735Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://skankhunter42-big97.github.io/1/"/>
+    <link rel="self" href="https://skankhunter42-big97.github.io/1/atom.xml"/>
+    <subtitle>开心就好啦</subtitle>
+    <logo>https://skankhunter42-big97.github.io/1/images/avatar.png</logo>
+    <icon>https://skankhunter42-big97.github.io/1/favicon.ico</icon>
+    <rights>All rights reserved 2020, </rights>
+</feed>
